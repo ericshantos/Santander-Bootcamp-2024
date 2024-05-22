@@ -27,8 +27,8 @@ para melhorar a comunicação e a colaboração em equipes ágeis.
 
 | Módulo | Projeto |
 |----------|----------|
-| Princípios de desenvolvimento de Software Colaborativo   | [dio-lab-open-source](dio-lab-open-source) |
-| Introdução á Engenraria de Prompt com ChatGPT   | [criar-ebook-com-IAs](criar-ebook-com-IAs)   |
+| Princípios de desenvolvimento de Software Colaborativo   | [dio-lab-open-source](https://github.com/ericshantos/dio-lab-open-source/tree/25619e600e94460d64768cba982ed2744e5acf95) |
+| Introdução á Engenraria de Prompt com ChatGPT   | [criar-ebook-com-IAs](https://github.com/ericshantos/Santander-Bootcamp-2024/tree/main/criar-ebook-com-AIs)   |
 
 ## 📚 Sobre o Programa
 
