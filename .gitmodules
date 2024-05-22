@@ -1,6 +1,3 @@
-[submodule "dio-lablopen-source"]
-	path = dio-lablopen-source
-	url = https://github.com/ericshantos/dio-lab-open-source
 [submodule "dio-lab-open-source"]
 	path = dio-lab-open-source
 	url = https://github.com/ericshantos/dio-lab-open-source
