@@ -23,6 +23,13 @@ desenvolvimento.
 - **Soft Skills na Era Ágil**: Conectando Pessoas e Oportunidades: Desenvolvimento de habilidades interpessoais 
 para melhorar a comunicação e a colaboração em equipes ágeis.
 
+## Projetos
+
+| Módulo | Projeto |
+|----------|----------|
+| Princípios de desenvolvimento de Software Colaborativo   | [dio-lab-open-source](dio-lab-open-source) |
+| Introdução á Engenraria de Prompt com ChatGPT   | [criar-ebook-com-IAs](criar-ebook-com-IAs)   |
+
 ## 📚 Sobre o Programa
 
 O Santander Bootcamp 2024 é ideal para pessoas de todo o Brasil que estão iniciando suas carreiras em 
