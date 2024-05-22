@@ -19,9 +19,6 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
@@ -48,8 +45,7 @@ IA Canva:
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| imagens/plano de fundo | imagem do(a) {nome do ponto turístico} sobre a pesperctiva de nostalgia e cores vivas. Com um cenário que retrate o contidiano urbano do ponto turístico no século XXI.
- |
+| imagens/plano de fundo | imagem do(a) {nome do ponto turístico} sobre a pesperctiva de nostalgia e cores vivas. Com um cenário que retrate o contidiano urbano do ponto turístico no século XXI.|
 
 ## ✨ Features
 
