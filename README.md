@@ -29,6 +29,7 @@ para melhorar a comunicação e a colaboração em equipes ágeis.
 |----------|----------|
 | Princípios de desenvolvimento de Software Colaborativo   | [dio-lab-open-source](https://github.com/ericshantos/dio-lab-open-source/tree/25619e600e94460d64768cba982ed2744e5acf95) |
 | Introdução á Engenraria de Prompt com ChatGPT   | [criar-ebook-com-IAs](https://github.com/ericshantos/Santander-Bootcamp-2024/tree/main/criar-ebook-com-AIs)   |
+| Transformando Prompts em Soluções Reais | [prompts-para-artigos-AI](https://github.com/ericshantos/Santander-Bootcamp-2024/tree/main/prompts-para-artigos-AI) |
 
 ## 📚 Sobre o Programa
 
