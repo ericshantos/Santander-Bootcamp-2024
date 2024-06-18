@@ -31,6 +31,7 @@ para melhorar a comunicação e a colaboração em equipes ágeis.
 | Introdução á Engenraria de Prompt com ChatGPT   | [criar-ebook-com-IAs](https://github.com/ericshantos/Santander-Bootcamp-2024/tree/main/criar-ebook-com-AIs)   |
 | Transformando prompts em soluções reais | [prompts-para-artigos-AI](prompts-para-artigos-AI) <br> [podcast-por-ai](podcast-por-ai) |
 
+
 ## 📚 Sobre o Programa
 
 O Santander Bootcamp 2024 é ideal para pessoas de todo o Brasil que estão iniciando suas carreiras em 
